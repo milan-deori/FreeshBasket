@@ -1,4 +1,4 @@
-# Grocery Frontend
+# FreshBasket Grocery
 
 A responsive front-end grocery store project built with HTML, CSS, and JavaScript.
 
